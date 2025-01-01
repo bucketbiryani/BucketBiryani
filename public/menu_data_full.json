@@ -1,0 +1,484 @@
+{
+    "vegStarters": [
+        {
+            "name": "Cauliflower Poppers",
+            "price": [
+                15.99,
+                28.99,
+                55.99
+            ]
+        },
+        {
+            "name": "Dragon Paneer",
+            "price": [
+                15.99,
+                28.99,
+                55.99
+            ]
+        },
+        {
+            "name": "Soya Chilly",
+            "price": [
+                15.99,
+                28.99,
+                55.99
+            ]
+        },
+        {
+            "name": "Potato Mayonnaise",
+            "price": [
+                15.99,
+                28.99,
+                55.99
+            ]
+        },
+        {
+            "name": "Dragon Cauliflower/Gobi",
+            "price": [
+                15.99,
+                28.99,
+                55.99
+            ]
+        },
+        {
+            "name": "Paneer Majestic",
+            "price": [
+                15.99,
+                28.99,
+                55.99
+            ]
+        },
+        {
+            "name": "Veg Manchurian",
+            "price": [
+                15.99,
+                28.99,
+                55.99
+            ]
+        },
+        {
+            "name": "Paneer Manchurian",
+            "price": [
+                15.99,
+                28.99,
+                55.99
+            ]
+        },
+        {
+            "name": "Gobi Manchurian",
+            "price": [
+                15.99,
+                28.99,
+                55.99
+            ]
+        },
+        {
+            "name": "Paneer Chilly",
+            "price": [
+                15.99,
+                28.99,
+                55.99
+            ]
+        }
+    ],
+    "nonVegAppetizers": [
+        {
+            "name": "Chicken Lollipop",
+            "price": [
+                18.99,
+                39.99,
+                65.99
+            ]
+        },
+        {
+            "name": "Cracker Chicken Lollipop",
+            "price": [
+                19.99,
+                45.99,
+                68.99
+            ]
+        },
+        {
+            "name": "Chicken 65",
+            "price": [
+                16.99,
+                35.99,
+                60.99
+            ]
+        },
+        {
+            "name": "Chicken Pakora",
+            "price": [
+                16.99,
+                35.99,
+                55.99
+            ]
+        },
+        {
+            "name": "Chicken Fry Dry",
+            "price": [
+                16.99,
+                35.99,
+                60.99
+            ]
+        },
+        {
+            "name": "Chilly Chicken",
+            "price": [
+                16.99,
+                35.99,
+                60.99
+            ]
+        },
+        {
+            "name": "Chicken Majestic",
+            "price": [
+                16.99,
+                35.99,
+                60.99
+            ]
+        },
+        {
+            "name": "Dragon Chicken",
+            "price": [
+                16.99,
+                35.99,
+                60.99
+            ]
+        },
+        {
+            "name": "Chicken Sukka",
+            "price": [
+                18.99,
+                40.99,
+                65.99
+            ]
+        }
+    ],
+    "seafoodAppetizers": [
+        {
+            "name": "Prawns Fry Sukka",
+            "price": [
+                18.99,
+                40.99,
+                65.99
+            ]
+        },
+        {
+            "name": "Loose Prawns",
+            "price": [
+                17.99,
+                38.99,
+                65.99
+            ]
+        },
+        {
+            "name": "Chilly Prawns",
+            "price": [
+                17.99,
+                38.99,
+                65.99
+            ]
+        },
+        {
+            "name": "Fish Fry",
+            "price": [
+                16.99,
+                38.99,
+                60.99
+            ]
+        },
+        {
+            "name": "Chilly Fish",
+            "price": [
+                18.99,
+                38.99,
+                65.99
+            ]
+        },
+        {
+            "name": "Fish Fingers with Spicy Mayonnaise",
+            "price": [
+                18.99,
+                38.99,
+                60.99
+            ]
+        }
+    ],
+    "muttonAppetizers": [
+        {
+            "name": "Mutton Sukka",
+            "price": [
+                18.99,
+                40.99,
+                65.99
+            ]
+        },
+        {
+            "name": "Ghee Roast Lamb Dry",
+            "price": [
+                18.99,
+                40.99,
+                65.99
+            ]
+        },
+        {
+            "name": "Mutton Fry",
+            "price": [
+                18.99,
+                40.99,
+                65.99
+            ]
+        }
+    ],
+    "biryani": {
+        "chicken": [
+            {
+                "name": "Chicken Dum Biryani [Bon-In]",
+                "price": [
+                    16.99,
+                    36.99,
+                    60.99
+                ]
+            },
+            {
+                "name": "Chicken 65 Biryani",
+                "price": [
+                    16.99,
+                    36.99,
+                    60.99
+                ]
+            },
+            {
+                "name": "Chicken Fry Biryani [Bon-In]",
+                "price": [
+                    18.99,
+                    36.99,
+                    65.99
+                ]
+            },
+            {
+                "name": "Boneless Chicken Biryani",
+                "price": [
+                    16.99,
+                    36.99,
+                    60.99
+                ]
+            },
+            {
+                "name": "Bucket Biryani Special (Chicken and Egg Mix)",
+                "price": [
+                    20.99,
+                    40.99,
+                    65.99
+                ]
+            }
+        ],
+        "mutton": [
+            {
+                "name": "Mutton Dum Biryani [Bone-In]",
+                "price": [
+                    19.99,
+                    45.99,
+                    65.99
+                ]
+            },
+            {
+                "name": "Boneless Mutton Biryani",
+                "price": [
+                    18.99,
+                    40.99,
+                    65.99
+                ]
+            },
+            {
+                "name": "Ghee Roast Mutton Biryani",
+                "price": [
+                    18.99,
+                    38.99,
+                    60.99
+                ]
+            }
+        ],
+        "veg": [
+            {
+                "name": "Paneer Biryani",
+                "price": [
+                    16.99,
+                    36.99,
+                    60.99
+                ]
+            },
+            {
+                "name": "Kaju Mushroom Biryani",
+                "price": [
+                    16.99,
+                    36.99,
+                    60.99
+                ]
+            },
+            {
+                "name": "Shahi Paneer Biryani",
+                "price": [
+                    16.99,
+                    36.99,
+                    60.99
+                ]
+            }
+        ],
+        "egg": [
+            {
+                "name": "Egg Biryani",
+                "price": [
+                    16.99,
+                    36.99,
+                    55.99
+                ]
+            },
+            {
+                "name": "Ghee Roast Egg Biryani",
+                "price": [
+                    17.99,
+                    38.99,
+                    60.99
+                ]
+            }
+        ]
+    },
+    "curries": [
+        {
+            "name": "Sunday Chicken Curry",
+            "price": [
+                19.99
+            ]
+        },
+        {
+            "name": "Military Mutton Curry",
+            "price": [
+                20.99
+            ]
+        },
+        {
+            "name": "Butter Chicken",
+            "price": [
+                17.99
+            ]
+        },
+        {
+            "name": "Paneer Butter Masala",
+            "price": [
+                16.99
+            ]
+        }
+    ],
+    "indianBreads": [
+        {
+            "name": "Butter Naan",
+            "price": [
+                3.99
+            ]
+        },
+        {
+            "name": "Garlic Naan",
+            "price": [
+                4.99
+            ]
+        },
+        {
+            "name": "Triangle Paratha",
+            "price": [
+                2.99
+            ]
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Phirni",
+            "price": [
+                7.99
+            ]
+        },
+        {
+            "name": "Mango Phirni",
+            "price": [
+                8.99
+            ]
+        },
+        {
+            "name": "Rasmalai",
+            "price": [
+                6.99
+            ]
+        },
+        {
+            "name": "Gajar Ka Halwa",
+            "price": [
+                5.99
+            ]
+        },
+        {
+            "name": "Gulab Jamun",
+            "price": [
+                6.99
+            ]
+        }
+    ],
+    "beverages": [
+        {
+            "name": "Coke",
+            "price": [
+                2.49
+            ]
+        },
+        {
+            "name": "Diet Coke",
+            "price": [
+                2.49
+            ]
+        },
+        {
+            "name": "Sprite",
+            "price": [
+                2.49
+            ]
+        },
+        {
+            "name": "Canada Dry",
+            "price": [
+                2.49
+            ]
+        },
+        {
+            "name": "Pepsi",
+            "price": [
+                2.49
+            ]
+        }
+    ],
+    "sideOrders": [
+        {
+            "name": "Salan",
+            "price": [
+                3.99
+            ]
+        },
+        {
+            "name": "Raitha",
+            "price": [
+                3.99
+            ]
+        },
+        {
+            "name": "Plain Rice",
+            "price": [
+                5.99
+            ]
+        },
+        {
+            "name": "Biryani Rice",
+            "price": [
+                7.99
+            ]
+        }
+    ]
+}
