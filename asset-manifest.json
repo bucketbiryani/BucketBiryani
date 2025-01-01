@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BucketBiryani/static/css/main.3049a874.css",
+    "main.js": "/BucketBiryani/static/js/main.a65b4628.js",
+    "static/js/488.b4bd88c4.chunk.js": "/BucketBiryani/static/js/488.b4bd88c4.chunk.js",
+    "static/media/background.jpg": "/BucketBiryani/static/media/background.422e86adc692129aa350.jpg",
+    "index.html": "/BucketBiryani/index.html",
+    "main.3049a874.css.map": "/BucketBiryani/static/css/main.3049a874.css.map",
+    "main.a65b4628.js.map": "/BucketBiryani/static/js/main.a65b4628.js.map",
+    "488.b4bd88c4.chunk.js.map": "/BucketBiryani/static/js/488.b4bd88c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3049a874.css",
+    "static/js/main.a65b4628.js"
+  ]
+}
