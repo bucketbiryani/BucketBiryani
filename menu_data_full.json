@@ -2,157 +2,100 @@
     "vegStarters": [
         {
             "name": "Cauliflower Poppers",
-            "price": [
-                15.99,
-                28.99,
-                55.99
-            ]
+            "price": [15.99, 28.99, 55.99],
+            "description": "Crispy cauliflower florets tossed in a flavorful blend of hot sauce and honey garlic glaze, garnished with sesame seeds and fresh coriander."
         },
         {
             "name": "Dragon Paneer",
-            "price": [
-                15.99,
-                28.99,
-                55.99
-            ]
+            "price": [15.99, 28.99, 55.99],
+            "description": "Tender paneer cubes stir-fried with onions and bell peppers in a bold and spicy homemade sauce."
         },
         {
             "name": "Soya Chilly",
-            "price": [
-                15.99,
-                28.99,
-                55.99
-            ]
+            "price": [15.99, 28.99, 55.99],
+            "description": ""
         },
         {
             "name": "Potato Mayonnaise",
-            "price": [
-                15.99,
-                28.99,
-                55.99
-            ]
+            "price": [15.99, 28.99, 55.99],
+            "description": "Crispy fried potato wedges seasoned with spices and drizzled with creamy mayonnaise, garnished with fresh coriander."
         },
         {
-            "name": "Dragon Cauliflower/Gobi",
-            "price": [
-                15.99,
-                28.99,
-                55.99
-            ]
+            "name": "Dragon Cauliflower",
+            "price": [15.99, 28.99, 55.99],
+            "description": "Crispy cauliflower florets coated in a fiery homemade sauce for a bold and spicy bite."
         },
         {
             "name": "Paneer Majestic",
-            "price": [
-                15.99,
-                28.99,
-                55.99
-            ]
+            "price": [15.99, 28.99, 55.99],
+            "description": "Succulent paneer pieces tossed in a creamy yogurt-based sauce with a tangy and aromatic finish."
         },
         {
             "name": "Veg Manchurian",
-            "price": [
-                15.99,
-                28.99,
-                55.99
-            ]
+            "price": [15.99, 28.99, 55.99],
+            "description": "Crispy vegetable balls immersed in a delectable Manchurian sauce."
         },
         {
             "name": "Paneer Manchurian",
-            "price": [
-                15.99,
-                28.99,
-                55.99
-            ]
+            "price": [15.99, 28.99, 55.99],
+            "description": "Soft cottage cheese cubes sautéed with onions and peppers, enveloped in a spicy and savory sauce."
         },
         {
             "name": "Gobi Manchurian",
-            "price": [
-                15.99,
-                28.99,
-                55.99
-            ]
+            "price": [15.99, 28.99, 55.99],
+            "description": "Golden-fried cauliflower tossed in a savory and tangy Manchurian sauce."
         },
         {
             "name": "Paneer Chilly",
-            "price": [
-                15.99,
-                28.99,
-                55.99
-            ]
+            "price": [15.99, 28.99, 55.99],
+            "description": ""
         }
     ],
     "nonVegAppetizers": [
         {
             "name": "Chicken Lollipop",
-            "price": [
-                18.99,
-                39.99,
-                65.99
-            ]
+            "price": [18.99, 39.99, 65.99],
+            "description": ""
         },
         {
             "name": "Cracker Chicken Lollipop",
-            "price": [
-                19.99,
-                45.99,
-                68.99
-            ]
+            "price": [19.99, 45.99, 68.99],
+            "description": ""
         },
         {
             "name": "Chicken 65",
-            "price": [
-                16.99,
-                35.99,
-                60.99
-            ]
+            "price": [16.99, 35.99, 60.99],
+            "description": "Tender chicken morsels marinated in spices and tossed in a chef’s signature gravy for a flavorful experience."
         },
         {
             "name": "Chicken Pakora",
-            "price": [
-                16.99,
-                35.99,
-                55.99
-            ]
+            "price": [16.99, 35.99, 55.99],
+            "description": "Crispy battered chicken deep-fried to golden perfection and tossed with fragrant curry leaves and crushed chilies for a spicy kick."
         },
         {
             "name": "Chicken Fry Dry",
-            "price": [
-                16.99,
-                35.99,
-                60.99
-            ]
+            "price": [16.99, 35.99, 60.99],
+            "description": ""
         },
         {
-            "name": "Chilly Chicken",
-            "price": [
-                16.99,
-                35.99,
-                60.99
-            ]
+            "name": "Chilli Chicken",
+            "price": [16.99, 35.99, 60.99],
+            "description": "Wok-tossed chicken cubes coated in a tangy and spicy chili sauce, delivering a burst of flavor in every bite."
         },
         {
             "name": "Chicken Majestic",
-            "price": [
-                16.99,
-                35.99,
-                60.99
-            ]
+            "price": [16.99, 35.99, 60.99],
+            "description": "Delicate chicken tenders coated in a creamy yellow gravy, infused with aromatic spices."
         },
         {
             "name": "Dragon Chicken",
-            "price": [
-                16.99,
-                35.99,
-                60.99
-            ]
+            "price": [16.99, 35.99, 60.99],
+            "description": "Succulent chicken cubes stir-fried with onions and green peppers, tossed in a zesty chili paste and Manchurian sauce."
         },
         {
             "name": "Chicken Sukka",
-            "price": [
-                18.99,
-                40.99,
-                65.99
-            ]
+            "price": [18.99, 40.99, 65.99],
+            "description": ""
         }
     ],
     "seafoodAppetizers": [
