@@ -96,7 +96,7 @@
             "name": "Chicken Lollipop",
             "price": [
                 18.99,
-                39.99,
+                40.99,
                 65.99
             ],
             "description": ""
@@ -255,9 +255,9 @@
             {
                 "name": "Chicken Dum Biryani [Bon-In]",
                 "price": [
-                    16.99,
-                    36.99,
-                    60.99
+                    18.99,
+                    40.99,
+                    65.99
                 ]
             },
             {
@@ -272,7 +272,7 @@
                 "name": "Chicken Fry Biryani [Bon-In]",
                 "price": [
                     18.99,
-                    36.99,
+                    40.99,
                     65.99
                 ]
             },
@@ -345,49 +345,49 @@
             {
                 "name": "Mutton Dum Biryani [Bone-In]",
                 "price": [
-                    19.99,
-                    45.99,
-                    65.99
+                    22.99,
+                    48.99,
+                    72.99
                 ]
             },
             {
                 "name": "Boneless Mutton Biryani",
                 "price": [
-                    18.99,
-                    40.99,
-                    65.99
+                    21.99,
+                    45.99,
+                    70.99
                 ]
             },
             {
                 "name": "Ghee Roast Mutton Biryani",
                 "price": [
-                    18.99,
-                    38.99,
-                    60.99
+                    21.99,
+                    45.99,
+                    70.99
                 ]
             },
             {
                 "name": "Shahi Mutton Biryani",
                 "price": [
-                    18.99,
-                    38.99,
-                    60.99
-                ]
-            },
-            {
-                "name": "Mutton Fry Piece Biryani",
-                "price": [
-                    19.99,
+                    21.99,
                     45.99,
-                    65.99
+                    70.99
                 ]
             },
             {
-                "name": "Fire Mutton Biryani",
+                "name": "Mutton Fry Piece Biryani [Bone-In]",
                 "price": [
-                    20.99,
+                    22.99,
                     48.99,
-                    65.99
+                    72.99
+                ]
+            },
+            {
+                "name": "Fire Mutton Biryani [Bone-In]",
+                "price": [
+                    22.99,
+                    48.99,
+                    72.99
                 ]
             }
         ],
